@@ -17,5 +17,7 @@ document.forms["sumform"]["sum"].value=x+y
 <output name="sum"></output>
 </form>
 aaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbb
+cccccccccccc
 </body>
 </html>
