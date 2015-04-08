@@ -16,6 +16,6 @@ document.forms["sumform"]["sum"].value=x+y
 <form action="" method="get" name="sumform">
 <output name="sum"></output>
 </form>
-增加一行内容！
+aaaaaaaaaaaaaaaa
 </body>
 </html>
